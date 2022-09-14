@@ -37,7 +37,7 @@ ul {
    font-size: 14px;
    line-height: 1.1;
    text-decoration: none;
-   color: inherit;
+   color: var(--main-text-color);
 }
 .pages:visited {
    color: inherit;
