@@ -148,7 +148,7 @@ ul {
    font-family: roboto;
    font-weight: 500;
    font-size: 16px;
-   line-height: 26px;
+   line-height: 1.6;
    color: var(--main-text-color);
    background: #f5f4fa;
    border-radius: 4px;
@@ -165,10 +165,10 @@ ul {
 .project-name {
    font-weight: 700;
    font-size: 18px;
-   line-height: 36px;
+   line-height: 2;
 }
 .project-type {
    font-size: 16px;
-   line-height: 30px;
+   line-height: 1.9;
    color: var(--secondary-text-color);
 }
